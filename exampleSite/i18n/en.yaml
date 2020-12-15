@@ -1,0 +1,137 @@
+- id: read_more
+  translation: Read More
+
+- id: contact_form
+  translation: Contact Form
+
+- id: send
+  translation: send message
+
+- id: contact_info
+  translation: Contact Info
+
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+- id: subscribe
+  translation: Subscribe
+
+- id: contact_us
+  translation: Contact Us
+
+- id: latest_article
+  translation: Latest Article
+
+- id: categories
+  translation: Categories
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: See all
+
+- id: apply_now
+  translation: Apply now
+
+- id: posted_by
+  translation: Posted by
+
+- id: date
+  translation: Date
+
+- id: time
+  translation: time
+
+- id: category
+  translation: Category
+
+- id: related_course
+  translation: Related Course
+
+- id: duration
+  translation: duration
+
+- id: weekly
+  translation: weekly
+
+- id: fee
+  translation: fee
+
+- id: teacher
+  translation: Лекторы
+
+- id: location
+  translation: location
+
+- id: entry_fee
+  translation: entry fee
+
+- id: event_speaker
+  translation: Event Speakers
+
+- id: more_event
+  translation: More Events
+
+- id: join
+  translation: Join
+  
+- id: enter_email
+  translation: Enter your email…
+
+- id: company
+  translation: Проект
+
+- id: links
+  translation: Ссылки
+
+- id: courses
+  translation: Курсы
+
+- id: new_notice
+  translation: Новые объявления
+
+- id: call
+  translation: Телефон
+
+- id: email
+  translation: Почта
+
+- id: all
+  translation: All
+
+- id: interest
+  translation: SUMMARY OF ACTIVITIES/INTERESTS
+
+- id: our_teachers
+  translation: Our Teachers
+
+- id: download
+  translation: Download
+
+- id: About
+  translation: Подробнее
+
+- id: course
+  translation: Курсы
+
+- id: Pages
+  translation: Остальное
+
+- id: notice
+  translation: Объявления
+
+- id: event
+  translation: События
+
+- id: scholarship
+  translation: scholarship
+
+- id: research
+  translation: Исследования
+
+- id: blog
+  translation: Блог
+
+- id: contact
+  translation: Контакты
