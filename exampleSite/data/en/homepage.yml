@@ -12,7 +12,29 @@ slider:
       button:
         enable : true
         label : "Скачать"
-        link : "artraion_regulations_121220.pdf"
+        link : "artraion_regulations.pdf"
+
+    # slider item loop
+    - title : "АртРайОн"
+      content : "Концепция создания Арт-пространств"
+      animation_in : "left"
+      animation_out : "false"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Скачать"
+        link : "artraion_concept.pdf"
+
+    # slider item loop
+    - title : "АртРайОн"
+      content : "Дорожная карта запуска"
+      animation_in : "left"
+      animation_out : "false"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Скачать"
+        link : "artraion_roadmap.pdf"
 
 
 
@@ -78,13 +100,10 @@ slider:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "История успеха"
-  content : "Можно увидеть как всё происходило своими глазами.
-            
-            
-  Благодаря youtube история становится достоянием человечества"
+  title : "АртРайОн пространство смыслов"
+  content : "методика объединения и раскрытия творческого потенциала населения по всей стране: от городов до сельских поселений"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ayJiw6KTg5c"
+  video_link : "https://youtu.be/PaV1KbWEMoo"
 
 
 ############################# event ################################
