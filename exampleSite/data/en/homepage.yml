@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "10 шагов пространственного развития"
-      content : "Технология социального взаимодействия"
+    - title : "АртРайОн"
+      content : "Технология развития творческих сообществ и креативных индустрий"
       animation_in : "left"
       animation_out : "false"
       # available animation : left, right, up, down
