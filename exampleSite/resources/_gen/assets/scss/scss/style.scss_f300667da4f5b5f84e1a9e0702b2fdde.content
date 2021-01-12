@@ -112,8 +112,8 @@ h6, .h6 {
     background-color: #fff; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active {
     color: #ec5b40 !important;
-    background-color: #ffab08 !important;
-    border-color: #ffab08 !important; }
+    background-color: #e23717 !important;
+    border-color: #e23717 !important; }
 
 .btn-outline-primary {
   color: #ec5b40;
@@ -142,7 +142,7 @@ body {
   overflow-x: hidden; }
 
 ::selection {
-  background: #ffcd6e;
+  background: #f1836e;
   color: #fff; }
 
 /* preloader */
@@ -230,7 +230,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #1a1a37;
+    background: #ffffff;
     opacity: .8; }
 
 .outline-0 {
