@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "АртРайОн"
+    - title : "АртРайОн - технология"
       content : "Технология развития творческих сообществ и креативных индустрий"
       animation_in : "left"
       animation_out : "false"
@@ -15,7 +15,7 @@ slider:
         link : "artraion_regulations.pdf"
 
     # slider item loop
-    - title : "АртРайОн"
+    - title : "АртРайОн - концепция"
       content : "Концепция создания Арт-пространств"
       animation_in : "left"
       animation_out : "false"
@@ -26,7 +26,7 @@ slider:
         link : "artraion_concept.pdf"
 
     # slider item loop
-    - title : "АртРайОн"
+    - title : "АртРайОн - дорожная карта"
       content : "Дорожная карта запуска"
       animation_in : "left"
       animation_out : "false"
