@@ -111,9 +111,9 @@
 
 - id: About
   translation: Подробнее
-
+# меню
 - id: course
-  translation: Курсы
+  translation: Семинары
 
 - id: Pages
   translation: Остальное
