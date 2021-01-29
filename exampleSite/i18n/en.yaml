@@ -133,5 +133,8 @@
 - id: blog
   translation: Блог
 
+- id: pr
+  translation: Пространственное развитие
+
 - id: contact
   translation: Контакты
