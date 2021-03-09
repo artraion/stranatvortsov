@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "АртРайОн - концепция"
-      content : "Концепция создания Арт-пространств"
+      content : "Презентация концепции создания Арт-пространств"
       animation_in : "left"
       animation_out : "false"
       # available animation : left, right, up, down
