@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "АртРайОн - технология"
+    - title : "АртРайОн - регламенты запуска"
       content : "Технология развития творческих сообществ и креативных индустрий"
       animation_in : "left"
       animation_out : "false"
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "АртРайОн - концепция"
-      content : "Концепция создания Арт-пространств"
+      content : "Презентация концепции создания Арт-пространств"
       animation_in : "left"
       animation_out : "false"
       # available animation : left, right, up, down
