@@ -11,7 +11,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Скачать"
+        label : "Скачать регламенты"
         link : "artraion_regulations.pdf"
 
     # slider item loop
@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Скачать"
+        label : "Скачать презентацию"
         link : "artraion_concept.pdf"
 
     # slider item loop
@@ -33,7 +33,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Скачать"
+        label : "Скачать дорожную карту"
         link : "artraion_roadmap.pdf"
 
 
